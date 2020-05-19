@@ -1,3 +1,9 @@
+# 알립니다.
+
+https://jonggyoukim.github.io/hands-on-oke-sample/ 로 대체합니다.
+
+<!--
+
 # Node-MySQL sample for Kubernetes
 
 쿠버네티스를 위한 샘플입니다.
@@ -54,3 +60,5 @@ docker build -t sample-app .
 ~~~
 docker run --name app  -e MYSQL_SERVICE_HOST={MYSQL_IP} -e MYSQL_SERVICE_USER=test -e MYSQL_SERVICE_PASSWORD=Welcome1 -e MYSQL_SERVICE_DATABASE=sample  -p 8080:8080 -it sample-app
 ~~~
+
+-->
