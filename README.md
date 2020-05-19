@@ -1,6 +1,6 @@
 # 알립니다.
 
-https://jonggyoukim.github.io/hands-on-oke-sample/ 로 대체합니다.
+https://github.io/jonggyoukim/hands-on-oke-sample/ 로 대체합니다.
 
 <!--
 
